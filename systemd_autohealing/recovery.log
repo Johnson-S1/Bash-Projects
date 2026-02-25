@@ -1,0 +1,14 @@
+
+2026-02-24 21:49:52 | ----- Checking sshd logs -----
+2026-02-24 21:49:52 | no issue detected
+2026-02-24 21:53:45 | ----- Checking sshd logs -----
+2026-02-24 21:53:45 | Failure pattern detected in logs
+2026-02-24 21:56:28 | ----- Checking sshd logs -----
+2026-02-24 21:56:29 | Failure pattern detected in logs
+2026-02-24 21:56:29 | sshd already down, Attempting start
+2026-02-24 21:56:42 | ----- Checking sshd logs -----
+2026-02-24 21:56:42 | Failure pattern detected in logs
+2026-02-24 21:56:42 | sshd already down, Attempting start
+2026-02-24 22:02:22 | ----- Checking sshd logs -----
+2026-02-24 22:02:22 | Failure pattern detected in logs
+2026-02-24 22:02:22 | Restarting sshd due to detected issue
